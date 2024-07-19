@@ -1,5 +1,12 @@
 #!/usr/bin/python3
 """ Rotate 2D Matrix
+
+Manipulating rows of a matrix by reversing their order as part of the rotation process.
+Nested Loops:
+
+Using nested loops to iterate through 2D data structures like matrices.
+Modifying elements within nested loops to achieve the desired rotation.
+
 """
 
 
