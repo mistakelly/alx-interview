@@ -1,7 +1,6 @@
 #!/usr/bin/python3
-"""Change making module.
+""" famous making change leetcode problem
 """
-
 
 def makeChange(coins, total):
     if total <= 0:
